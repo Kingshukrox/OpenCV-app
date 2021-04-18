@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="SVG">
+    <file>Resources/icons/image-icon.svg</file>
+  </qresource>
+  <qresource prefix="24x24">
+    <file>Resources/icons/24x24/cil-list.png</file>
+    <file>Resources/icons/24x24/cil-image1.png</file>
+    <file>Resources/icons/24x24/cil-image-plus.png</file>
+    <file>Resources/icons/24x24/cil-mood-good.png</file>
+    <file>Resources/icons/24x24/cil-mood-very-good.png</file>
+    <file>Resources/icons/24x24/cil-video.png</file>
+    <file>Resources/icons/24x24/cil-wifi-signal-0.png</file>
+  </qresource>
+</RCC>
